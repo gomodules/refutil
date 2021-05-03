@@ -5,7 +5,7 @@ import (
 
 	"testing"
 
-	"github.com/huttarichard/refutil/test"
+	"gomodules.xyz/refutil/test"
 )
 
 func TestKind(t *testing.T) {

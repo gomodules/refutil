@@ -1,3 +1,3 @@
-module github.com/huttarichard/refutil
+module gomodules.xyz/refutil
 
 go 1.13

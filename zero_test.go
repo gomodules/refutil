@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huttarichard/refutil/test"
+	"gomodules.xyz/refutil/test"
 )
 
 type zeroerTest struct {

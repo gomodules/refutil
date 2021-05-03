@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/huttarichard/refutil/test"
+	"gomodules.xyz/refutil/test"
 )
 
 func float64bits(f float64) unsafe.Pointer {

@@ -1,3 +1,6 @@
+[![PkgGoDev](https://pkg.go.dev/badge/gomodules.xyz/refutil)](https://pkg.go.dev/gomodules.xyz/refutil)
+![CI](https://github.com/gomodules/password-generator/workflows/CI/badge.svg)
+
 # Reflect Util
 
 `reflect` functionality and sugar we often use in our projects.
@@ -23,12 +26,8 @@ to prevent panicking.
 Installation is available with `go get` command
 
 ```bash
-go get -u  https://github.com/huttarichard/refutil
+go get -u  gomodules.xyz/refutil
 ```
-
-## GoDoc
-
-Complete documentation can be found [http://godoc.org/github.com/huttarichard/refutil](http://godoc.org/github.com/huttarichard/refutil)
 
 ## Few examples from `refutil` package
 

@@ -3,7 +3,7 @@ package refutil
 import (
 	"testing"
 
-	"github.com/huttarichard/refutil/test"
+	"gomodules.xyz/refutil/test"
 )
 
 func TestLen(t *testing.T) {
